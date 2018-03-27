@@ -6,3 +6,5 @@
 4. [计算机视觉相关(CV)](./CV_Questions.md)
 5. [基础算法题相关(AL)](./Algorithms.md)
 6. [算法语言相关(LA)](./Language.md)
+
+本项目正在收集题目中，欢迎PR.
