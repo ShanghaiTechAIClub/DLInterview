@@ -18,6 +18,7 @@
     * 梯度消失,爆炸的原因
     * 梯度消失
     * 为什么梯度相反的方向是函数下降最快的方向？
+        https://math.oregonstate.edu/home/programs/undergrad/CalculusQuestStudyGuides/vcalc/grad/grad.html
 -----------
 
 - **1*1的卷积核的作用**
